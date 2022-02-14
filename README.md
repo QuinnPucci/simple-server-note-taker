@@ -1,5 +1,5 @@
 # Simple Server Note Taker
-https://infinite-woodland-87515.herokuapp.com/
+[Application deployed live here](https://infinite-woodland-87515.herokuapp.com/)
 
 ## Description
 Simple note taking application. Portfolio Piece to showcase front and backend technical skills including server development. 
