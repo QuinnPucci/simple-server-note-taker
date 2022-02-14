@@ -1,11 +1,12 @@
 # Simple Server Note Taker
 https://infinite-woodland-87515.herokuapp.com/
 
-## Technologies
-Meant to be a showcase of my express.js and node.js server creation skills
-
 ## Description
-Simple note taking application - uses express.js to create the server
+Simple note taking application. Portfolio Piece to showcase front and backend technical skills including server development. 
+
+frontend: HTML, CSS, JavaScript
+
+backend: NodeJS, ExpressJS
 
 ## Testing
 App is deployed live on heroku: https://infinite-woodland-87515.herokuapp.com/
